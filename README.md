@@ -1,2 +1,2 @@
 # C-GAN
-Conditional GAN Implementation
+An implementation of a Conditional GAN
