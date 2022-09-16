@@ -7,3 +7,4 @@ _______________
 
 Notes:
 - This is version 1.0 of the conditional GAN, testing to come in version 1.1
+- This project is still under constant development
