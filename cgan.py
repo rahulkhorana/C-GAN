@@ -95,7 +95,7 @@ class CGAN:
         return
     
     def test(self):
-        # TODO: add tests
+        # TODO: add tests with example dataset
     
     def plot_progress(self):
         #TODO: add progress tracking
