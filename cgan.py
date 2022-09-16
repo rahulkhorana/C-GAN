@@ -92,3 +92,10 @@ class CGAN:
             g_loss = self.generator_loss(misleading_labels, predictions)
         grads = tape.gradient(g_loss, generator.trainable_weights)
         self.gen_optimizer.apply_gradients(zip(grads, generator.trainable_weights))
+        return
+    
+    def test(self):
+        # TODO: add tests
+    
+    def view_progress(self):
+        #TODO: add progress tracking
